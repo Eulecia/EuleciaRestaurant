@@ -1,2 +1,12 @@
-# EuleciaRestaurant
-Creating Website
+<!doctype html> 
+<html>   
+  <head>
+  <title></title>
+  </head>
+  <body>  
+    <header></header> 
+    <nav></nav>
+    <main></main>
+    <footer></footer>
+  </body>
+  </html>
